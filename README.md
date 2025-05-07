@@ -33,3 +33,5 @@ OTHER
 if you like this software you might consider leaving me a follow on Twitch. It would mean the world :) - https://twitch.hergorn.com
 
 if you need any  help, have questions or encounter a error, feel free to contact me: mailme@hergorn.com
+
+last checked if mod is functional: 07.05.2025
