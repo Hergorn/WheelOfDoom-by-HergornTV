@@ -1,0 +1,41 @@
+﻿body 
+{
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #f0f0f0;
+}
+
+.wheel-container 
+{
+    position: relative;
+    display: inline-block;
+}
+
+canvas 
+{
+    border: 5px solid #333;
+    border-radius: 50%;
+    background: white;
+}
+
+#winner 
+{
+    margin-top: 20px;
+    font-size: 1.5rem;
+}
+
+#countdown 
+{
+    margin-top: 10px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    background: #fff3cd;
+    padding: 10px 20px;
+    border: 2px solid #ffc107;
+    border-radius: 10px;
+    color: #856404;
+}

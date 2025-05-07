@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SETTINGS>
+	<COUNTDOWN>
+		15
+	</COUNTDOWN>
+	<PRIZES>
+		<PRIZE>Prize 1</PRIZE>
+		<PRIZE>Prize 2</PRIZE>
+		<PRIZE>Prize 3</PRIZE>
+		<PRIZE>Prize 4</PRIZE>
+	</PRIZES>
+</SETTINGS>

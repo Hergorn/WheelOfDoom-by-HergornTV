@@ -1,0 +1,46 @@
+﻿@font-face 
+{
+    font-family: 'AlarmClock';
+    src: url('./alarm-clock.woff2') format('woff2'), url('./alarm-clock.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body 
+{
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #f0f0f0;
+}
+
+.wheel-container 
+{
+    position: relative;
+    display: inline-block;
+}
+
+canvas 
+{
+    border: 5px solid #333;
+    border-radius: 50%;
+    background: white;
+}
+
+#winner 
+{
+    margin-top: 20px;
+    font-size: 1.5rem;
+}
+
+#countdown {
+    margin-top: 10px;
+    font-size: 6rem;
+    font-weight: 900;
+    padding: 10px 20px;
+    color: #FFF;
+    font-family: 'AlarmClock', sans-serif;
+    text-shadow: -2px -2px 0 black, 2px -2px 0 black, -2px 2px 0 black, 2px 2px 0 black;
