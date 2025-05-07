@@ -22,7 +22,7 @@ the Wheel itself is a local html file, which you can point to inside your OBS or
 
 DOWNLOADS
 -
-Installer: Waiting for Upload
+Installer: https://github.com/Hergorn/WheelOfDoom-by-HergornTV/releases/
 
 Streamelements Version: WIP
 
