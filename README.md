@@ -22,15 +22,15 @@ the Wheel itself is a local html file, which you can point to inside your OBS or
 
 DOWNLOADS
 -
-Installer: https://github.com/Hergorn/WheelOfDoom-by-HergornTV/releases/
+[Installer](https://github.com/Hergorn/WheelOfDoom-by-HergornTV/releases/)
 
-Streamelements Version: WIP
+[Streamelements Version](https://github.com/Hergorn/Wheel-of-Doom---SE-Version/)
 
 
 
 OTHER
 -
-if you like this software you might consider leaving me a follow on Twitch. It would mean the world :) - https://twitch.hergorn.com
+if you like this software you might consider leaving me a follow on [Twitch](https://twitch.hergorn.com). It would mean the world :) - 
 
 if you need any  help, have questions or encounter a error, feel free to contact me: mailme@hergorn.com
 
